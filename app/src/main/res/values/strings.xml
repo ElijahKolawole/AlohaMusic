@@ -7,4 +7,10 @@
     <string name="title_activity_main">Play Music</string>
     <string name="txtSplash">Sounds of Hawaii</string>
     <string name="ukulele">Ukulele Image</string>
+    <string name="txtPlayUku">Pause Ukulele Song</string>
+    <string name="txtPauseUku">Pause Ukulele Song</string>
+    <string name="txtPlayDru">Pause Ukulele Song</string>
+    <string name="txtPauseDru">Pause Ukulele Song</string>
+
+
 </resources>
