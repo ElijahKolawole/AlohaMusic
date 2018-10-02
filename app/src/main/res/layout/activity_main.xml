@@ -44,8 +44,8 @@
 
     <ImageView
         android:id="@+id/imdDrums"
-        android:layout_width="320"
-        android:layout_height="150"
+        android:layout_width="320dp"
+        android:layout_height="150dp"
         android:layout_marginEnd="8dp"
         android:layout_marginRight="8dp"
         android:layout_marginTop="20dp"
@@ -57,7 +57,7 @@
         app:srcCompat="@drawable/drums" />
 
     <Button
-        android:id="@+id/btDrums"
+        android:id="@+id/btnDrums"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginEnd="8dp"
