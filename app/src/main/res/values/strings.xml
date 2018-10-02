@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Aloha Music</string>
+    <string name="action_settings">Settings</string>
+    <string name="btnDrums">Play Drum Songs</string>
+    <string name="btnUkulele">Play Ukulele Song</string>
+    <string name="drums">Drum Image</string>
+    <string name="title_activity_main">Play Music</string>
+    <string name="txtSplash">Sounds of Hawaii</string>
+    <string name="ukulele">Ukulele Image</string>
 </resources>
